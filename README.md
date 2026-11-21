@@ -39,7 +39,7 @@ The tone is deliberate as well. Recovery is the moment when a convincing strange
 - You hold a private key rather than a phrase and want to know which accounts it can reach before you use it anywhere.
 - You keep keys on a hardware device and want the desktop wallet to work with it rather than replace it.
 
-## Start here
+## Start here.
 
 - [Recover a Terra Station Wallet with a Seed Phrase](https://github.com/terraclassic-wallet/lunc-wallet-recovery/blob/main/terra-station-seed-phrase.md) - The material most readers actually hold, and what the import screen expects.
 - [Seed Phrase vs Private Key: What Each One Restores](https://github.com/terraclassic-wallet/lunc-wallet-recovery/blob/main/terra-station-key-or-phrase-import.md) - The difference that decides which of the two you need.
